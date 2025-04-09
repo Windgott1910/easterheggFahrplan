@@ -119,7 +119,7 @@ android {
             buildConfigField "String", "SCHEDULE_URL", '"https://api.events.ccc.de/congress/2024/schedule.xml"'
             buildConfigField "String", "EVENT_URL", '""'
             buildConfigField "String", "EVENT_WEBSITE_URL", '"https://eh22.easterhegg.eu/"'
-            buildConfigField "String", "EVENT_POSTAL_ADDRESS", '"Congressplatz 1, 20355 Hamburg"'
+            buildConfigField "String", "EVENT_POSTAL_ADDRESS", '"Jarrestraße 20, 22303 Hamburg"'
             buildConfigField "String", "SERVER_BACKEND_TYPE", '"frab"'
             buildConfigField "boolean", "SHOW_APP_DISCLAIMER", "true"
             buildConfigField "boolean", "ENGAGE_C3NAV_APP_INSTALLATION", "true"
